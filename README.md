@@ -8,7 +8,7 @@
 
 ## How to contribute
 
-1. Create a (git branch)[https://www.atlassian.com/git/tutorials/using-branches] with a title like "JDoe2015"
+1. Create a [git branch](https://www.atlassian.com/git/tutorials/using-branches)with a title like "JDoe2015"
 2. Open a pull request for the branch
 3. Create a new folder that contains:
 ```
@@ -42,7 +42,7 @@ COLUMNS: Reduced electric field (Td) | Energy (eV)
  7.681600e-1,6.321710e+0
 -----------------------------
 ```
-4. Retrieve the data using (webplotdigitiser)[https://automeris.io/] or other software
+4. Retrieve the data using [webplotdigitiser](https://automeris.io/) or other software
 5. Fill out the template file according to the paper
 6. Commit the files to the git branch
 7. Mark the pull request ready for review
