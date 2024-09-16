@@ -8,7 +8,7 @@
 
 ## How to contribute
 
-1. Create a [git branch](https://www.atlassian.com/git/tutorials/using-branches)with a title like "JDoe2015"
+1. Create a [git branch](https://www.atlassian.com/git/tutorials/using-branches) with a title like "JDoe2015"
 2. Open a pull request for the branch
 3. Create a new folder that contains:
 ```
