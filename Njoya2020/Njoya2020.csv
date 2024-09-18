@@ -1,0 +1,51 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: [1] O. Njoya et al., “Measurements of electron transport in liquid and gas Xenon using a laser-driven photocathode,” Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, vol. 972, p. 163965, Aug. 2020.
+DOI: 10.1016/j.nima.2020.163965
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: ?
+Pressure: ?
+Temperature: 162 K
+Phase: Liquid
+PROCESS: Drift Velocity
+COMMENT: Uses drift field, which is the same as the electric field.
+COLUMNS: Drift Field (V/cm) | Drift Velocity (mm/us)
+-----------------------------
+40.020375154028784, 0.8708752044979717
+49.738193812368195, 1.0312529633717147
+74.57261927256911, 1.2624953133757157
+81.05116504479543, 1.2923330359568772
+101.5665599901788, 1.393035349668297
+200.90426183098248, 1.635466845640234
+300.24196367178604, 1.784655458546041
+401.73918076999837, 1.889087487580106
+499.9971249820976, 1.9711412246783002
+751.5806524702198, 2.1427081295199786
+802.3292610193262, 2.157626990810559
+902.7467204888342, 2.1911944287143656
+-----------------------------
+
+SPECIES: e / Xe
+Density: ?
+Pressure: ?
+Temperature: 162 K
+Phase: Liquid
+PROCESS: Longitudinal Diffusion Coefficient
+COMMENT: Uses drift field, which is the same as the electric field. Assuming same temperature as drift measurements
+COLUMNS: Drift Field (V/cm) | Longitudinal Diffusion Coefficient (cm^2/s)
+-----------------------------
+39.691588625689086, 156.25
+49.69496218047419, 101.64473684210526
+74.47617325697999, 66.7763157894737
+79.07655163008934, 65.13157894736841
+99.7505735066043, 41.44736842105263
+198.73055347854762, 27.960526315789508
+300.07058664296756, 26.64473684210529
+401.90321012893787, 26.31578947368422
+495.71009778913117, 25.98684210526315
+742.904099496098, 25.65789473684208
+794.7250818395344, 24.01315789473685
+889.2499740235551, 25.98684210526315
+11.51352137971542, -131.93024941422212
+-----------------------------
