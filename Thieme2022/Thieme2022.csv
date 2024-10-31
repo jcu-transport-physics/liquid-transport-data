@@ -1,0 +1,22 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: K. Thieme, “The Low-Energy and Large-Scale Frontier of Dual-Phase Xenon Time Projection Chambers for Dark Matter Search,” PhD Thesis, Zurich U., 2022.
+DOI: https://inspirehep.net/literature/2096270
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: 2861 kg/m3
+Pressure: 2 Bar
+Temperature: 177 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COLUMNS: Electric field (V/cm) | Drift Velocity (mm/\mu s) | Uncertainty (mm/\mu s)
+-----------------------------
+80,1.52,0.03
+100,1.59,0.03
+200,1.63,0.03
+400,1.75,0.03
+600,1.83,0.03
+800,1.90,0.04
+968,1.96,0.04
+1000,1.96,0.04
+-----------------------------
