@@ -1,0 +1,25 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: L. Baudis et al., “Electron transport measurements in liquid xenon with Xenoscope, a large-scale DARWIN demonstrator,” Eur. Phys. J. C, vol. 83, no. 8, p. 717, Aug. 2023.
+DOI: 10.1140/epjc/s10052-023-11823-1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: 2.05 Bar
+Temperature: 177.6 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COLUMNS: Drift field (V/cm) | Drift Velocity (mm/\mu s)
+-----------------------------
+25.160781784633024, 0.7355072463768115
+29.816287777001484, 0.8496376811594204
+35.08592196485194, 0.9415760869565217
+40.04541301660665, 1.0271739130434783
+45.310568603213845, 1.09375
+50.26558105372532, 1.153985507246377
+55.218914028770534, 1.2047101449275361
+60.16944787803873, 1.2395833333333335
+65.42956503824726, 1.2776268115942029
+70.38009888751546, 1.3125
+75.32895326131742, 1.3378623188405796
+-----------------------------
