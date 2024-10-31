@@ -1,0 +1,187 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: H. Schnyders, S. A. Rice, and L. Meyer, “Electron Drift Velocities in Liquefied Argon and Krypton at Low Electric Field Strengths,” Phys. Rev., vol. 150, no. 1, pp. 127–145, Oct. 1966.
+DOI: 10.1103/PhysRev.150.127
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Kr
+Density: ?
+Pressure: 32.9 atm
+Temperature: 180.0 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COLUMNS: Electric field (V/cm) | Drift Velocity (cm/s)
+-----------------------------
+50.22472642001043, 0.0017393339333933394
+100.01628452318917, 0.002325940594059406
+149.68733715476813, 0.002548910891089109
+-----------------------------
+
+SPECIES: e / Kr
+Density: ?
+Pressure: 15.3 atm
+Temperature: 152.0 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COLUMNS: Electric field (V/cm) | Drift Velocity (cm/s)
+-----------------------------
+50.459917153996116, 0.0010179292929292931
+99.90342373053099, 0.0014668283495016168
+149.7785455628896, 0.0016617645097843116
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: 45.3 atm
+Temperature: 145.0 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COLUMNS: Electric field (V/cm) | Drift Velocity (cm/s)
+-----------------------------
+50.459917153996116, 0.00022247474747474775
+100.33503898635479, 0.0003508417508417509
+150.40052387914233, 0.00041186868686868706
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: N/A
+Temperature: 111.5 K
+Field: 200 V/m
+Phase: Liquid
+PROCESS: Mobility
+COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
+-----------------------------
+5.7839262187088245, 243.0487804878049
+44.6772068511199, 247.8658536585366
+86.52173913043478, 252.3170731707317
+91.37022397891965, 253.71951219512195
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: N/A
+Temperature: 105.3 K
+Field: 200 V/m
+Phase: Liquid
+PROCESS: Mobility
+COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
+-----------------------------
+9.26218708827404, 246.28048780487805
+26.969696969696976, 254.45121951219514
+37.82608695652174, 254.51219512195124
+67.0223978919631, 254.32926829268294
+94.74308300395259, 257.8048780487805
+89.58882844806223, 268.4146341463415
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: N/A
+Temperature: 100.3 K
+Field: 200 V/m
+Phase: Liquid
+PROCESS: Mobility
+COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
+-----------------------------
+6.732542819499336, 262.2560975609756
+36.87747035573123, 265.1829268292683
+69.86824769433466, 269.0853658536586
+93.26745718050068, 270.3658536585366
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: 6.0 atm
+Temperature: 85.0 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COLUMNS: Electric field (V/cm) | Drift Velocity (cm/s)
+-----------------------------
+124.60280373831777, 0.000005532228360957643
+149.53271028037386, 0.0000069760589318600385
+174.46261682242994, 0.000007904235727440149
+199.64953271028037, 0.000009038674033149172
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: 7.0 atm
+Temperature: 90.1 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COLUMNS: Electric field (V/cm) | Drift Velocity (cm/s)
+-----------------------------
+124.60280373831777, 0.0000044751381215469625
+150.04672897196264, 0.000005506445672191532
+174.46261682242994, 0.000006537753222836098
+199.64953271028037, 0.000007517495395948438
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: 7.0 atm
+Temperature: 90.1 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COLUMNS: Electric field (V/cm) | Drift Velocity (cm/s)
+-----------------------------
+124.60280373831777, 0.000003546961325966852
+149.53271028037386, 0.000004320441988950279
+174.9766355140187, 0.000005171270718232047
+199.64953271028037, 0.0000059963167587477
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: N/A
+Temperature: 90.1 K
+Field: 100 V/m
+Phase: Liquid
+PROCESS: Mobility
+COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
+-----------------------------
+5.8855835240274565, 472.4234234234234
+12.22883295194508, 478.2252252252252
+24.713958810068647, 474.18918918918916
+36.5949656750572, 469.39639639639637
+49.08009153318077, 447.7027027027027
+56.32951945080092, 436.0990990990991
+72.13729977116705, 439.8828828828829
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: N/A
+Temperature: 111.5 K
+Field: 100 V/m
+Phase: Liquid
+PROCESS: Mobility
+COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
+-----------------------------
+5.779816513761467, 289.5
+7.293577981651374, 288
+12.33944954128441, 288.75
+26.366972477064223, 316
+36.963302752293586, 307.5
+39.68807339449541, 307
+47.55963302752294, 319.75
+49.67889908256881, 313.25
+56.23853211009175, 308.5
+-----------------------------
+
+SPECIES: e / Ar
+Density: ?
+Pressure: N/A
+Temperature: 145.0 K
+Field: 100 V/m
+Phase: Liquid
+PROCESS: Mobility
+COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
+-----------------------------
+35.68878718535469, 561.9729729729729
+49.482837528604115, 521.6126126126126
+57.03432494279175, 487.3063063063063
+72.84210526315789, 454.009009009009
+85.52860411899314, 439.8828828828829
+94.08695652173913, 425.50450450450444
+-----------------------------
