@@ -1,0 +1,46 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: L. Baudis et al., “Electron transport measurements in liquid xenon with Xenoscope, a large-scale DARWIN demonstrator,” Eur. Phys. J. C, vol. 83, no. 8, p. 717, Aug. 2023.
+DOI: 10.1140/epjc/s10052-023-11823-1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: 2.05 Bar
+Temperature: 177.6 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COLUMNS: Drift field (V/cm) | Drift Velocity (mm/\mu s)
+-----------------------------
+25.160781784633024, 0.7355072463768115
+29.816287777001484, 0.8496376811594204
+35.08592196485194, 0.9415760869565217
+40.04541301660665, 1.0271739130434783
+45.310568603213845, 1.09375
+50.26558105372532, 1.153985507246377
+55.218914028770534, 1.2047101449275361
+60.16944787803873, 1.2395833333333335
+65.42956503824726, 1.2776268115942029
+70.38009888751546, 1.3125
+75.32895326131742, 1.3378623188405796
+-----------------------------
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: 2.05 Bar
+Temperature: 177.6 K
+Phase: Liquid
+PROCESS: Longitudinal Diffusion (DL)
+COLUMNS: Drift field (V/cm) | Longitudinal Diffusion (cm^2/s)
+-----------------------------
+24.999636433345017, 98.42735387374762
+29.92263742268699, 82.2035774958851
+35.07867362070524, 105.59066360829989
+39.77075469827272, 51.704080980616396
+45.103418187587174, 62.75386317113853
+50.03382271608529, 53.348283634873326
+54.95188801265652, 32.5790426959459
+59.932707117313036, 69.60213689055763
+65.059834257674, 66.3657877167353
+69.97543170785988, 43.323814497275464
+74.91782291880122, 44.957220323596374
+-----------------------------
