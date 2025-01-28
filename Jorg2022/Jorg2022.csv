@@ -124,16 +124,26 @@ COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
 SPECIES: e / Kr
 Density: NaN
 Pressure: NaN
+Temperature: 182 K
+Phase: Liquid
+PROCESS: Drift Velocity (W)
+COMMENT: XENON100/XENON1T on Fig. 20
+COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
+-----------------------------
+0.08100785483302782, 1.3417553191489362
+0.5259327708859671, 1.7287234042553192
+-----------------------------
+
+SPECIES: e / Kr
+Density: NaN
+Pressure: NaN
 Temperature: 177 K
 Phase: Liquid
 PROCESS: Drift Velocity (W)
 COMMENT: XENON100/XENON1T on Fig. 20
-COMMENT: 177K and 182K, should be two separate sets
 COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
 -----------------------------
-0.08100785483302782, 1.3417553191489362
 0.11659144011798322, 1.4375000000000002
-0.5259327708859671, 1.7287234042553192
 -----------------------------
 
 SPECIES: e / Kr
