@@ -3,7 +3,7 @@ Reference: F. Jörg, D. Cichon, G. Eurin, L. Hötzsch, T. Marrodán Undagoitia, 
 DOI: 10.1140/epjc/s10052-022-10259-3
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: 1.68 bar
 Temperature: 173.41 K
@@ -41,7 +41,7 @@ COLUMNS: Reduced electric field (kV/cm) | Uncertainty | Drift Velocity (mm/\mu s
 3.926461e-01,9.142491e-03,1.683522e+00,2.069066e-02
 -----------------------------
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: 1.68 bar
 Temperature: 173.41 K
@@ -103,7 +103,7 @@ COLUMNS: Reduced electric field (kV/cm) | Uncertainty | Drift Velocity (mm/\mu s
 1.641922e+00,4.265787e-02,2.145472e+00,2.636951e-02
 -----------------------------
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: NaN
 Temperature: 167 K
@@ -121,7 +121,7 @@ COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
 0.6153855394468546,1.8763297872340428
 -----------------------------
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: NaN
 Temperature: 182 K
@@ -134,7 +134,7 @@ COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
 0.5259327708859671, 1.7287234042553192
 -----------------------------
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: NaN
 Temperature: 177 K
@@ -146,7 +146,7 @@ COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
 0.11659144011798322, 1.4375000000000002
 -----------------------------
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: NaN
 Temperature: 163 K
@@ -179,7 +179,7 @@ COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
 1.2300491936242468,2.363031914893617
 -----------------------------
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: NaN
 Temperature: 162 K
@@ -202,7 +202,7 @@ COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
 0.8984385372349026,2.1875
 -----------------------------
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: NaN
 Temperature: 184 K
@@ -221,7 +221,7 @@ COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
 1.2566802975816271,1.8444148936170213
 -----------------------------
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: NaN
 Temperature: 165 K
@@ -293,7 +293,7 @@ COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/\mu s)
 0.023724321374869697,0.7074468085106385
 -----------------------------
 
-SPECIES: e / Kr
+SPECIES: e / Xe
 Density: NaN
 Pressure: NaN
 Temperature: 183 K
