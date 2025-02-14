@@ -8,6 +8,7 @@ Density: ?
 Pressure: N/A
 Temperature: N/A
 Phase: Liquid
+Field: NaN
 PROCESS: Mobility
 COLUMNS: Temperature (K) | Pressure (atm) | Electric Field (V/cm) | n | Mobility (cm^/V/s) | Error (+) | Error (-)
 -----------------------------
@@ -88,6 +89,7 @@ Density: ?
 Pressure: N/A
 Temperature: N/A
 Phase: Liquid
+Field: NaN
 PROCESS: Mobility
 COLUMNS: Temperature (K) | Pressure (atm) | Electric Field (V/cm) | n | Mobility (cm^/V/s)
 -----------------------------
