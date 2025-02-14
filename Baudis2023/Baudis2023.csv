@@ -9,7 +9,7 @@ Pressure: 2.05 Bar
 Temperature: 177.6 K
 Phase: Liquid
 PROCESS: Drift Velocity (W)
-COLUMNS: Drift field (V/cm) | Drift Velocity (mm/\mu s)
+COLUMNS: Drift field (V/cm) | Drift Velocity (mm/μs)
 -----------------------------
 25.160781784633024, 0.7355072463768115
 29.816287777001484, 0.8496376811594204

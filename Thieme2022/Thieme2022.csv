@@ -9,7 +9,7 @@ Pressure: 2 Bar
 Temperature: 177 K
 Phase: Liquid
 PROCESS: Drift Velocity (W)
-COLUMNS: Electric field (V/cm) | Drift Velocity (mm/\mu s) | Uncertainty (mm/\mu s)
+COLUMNS: Electric field (V/cm) | Drift Velocity (mm/μs) | Uncertainty (mm/μs)
 -----------------------------
 80,1.52,0.03
 100,1.59,0.03

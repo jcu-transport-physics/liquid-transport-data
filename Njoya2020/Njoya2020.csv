@@ -10,7 +10,7 @@ Temperature: 162 K
 Phase: Liquid
 PROCESS: Drift Velocity
 COMMENT: Uses drift field, which is the same as the electric field.
-COLUMNS: Drift Field (V/cm) | Drift Velocity (mm/us)
+COLUMNS: Drift Field (V/cm) | Drift Velocity (mm/μs)
 -----------------------------
 40.020375154028784, 0.8708752044979717
 49.738193812368195, 1.0312529633717147
