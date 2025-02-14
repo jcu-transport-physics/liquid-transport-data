@@ -5,9 +5,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 SPECIES: e / Xe
 Density: NaN
-Pressure: 2.05 Bar
+Pressure: 2.05 bar
 Temperature: 177.6 K
 Phase: Liquid
+Field: NaN
 PROCESS: Drift Velocity (W)
 COLUMNS: Drift field (V/cm) | Drift Velocity (mm/μs)
 -----------------------------
@@ -26,9 +27,10 @@ COLUMNS: Drift field (V/cm) | Drift Velocity (mm/μs)
 
 SPECIES: e / Xe
 Density: NaN
-Pressure: 2.05 Bar
+Pressure: 2.05 bar
 Temperature: 177.6 K
 Phase: Liquid
+Field: NaN
 PROCESS: Longitudinal Diffusion (DL)
 COLUMNS: Drift field (V/cm) | Longitudinal Diffusion (cm^2/s)
 -----------------------------

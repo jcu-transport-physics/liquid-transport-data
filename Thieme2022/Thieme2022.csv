@@ -4,10 +4,11 @@ DOI: https://inspirehep.net/literature/2096270
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 SPECIES: e / Xe
-Density: 2861 kg/m3
-Pressure: 2 Bar
+Density: 2861 kg/m^3
+Pressure: 2 bar
 Temperature: 177 K
 Phase: Liquid
+Field: NaN
 PROCESS: Drift Velocity (W)
 COLUMNS: Electric field (V/cm) | Drift Velocity (mm/μs) | Uncertainty (mm/μs)
 -----------------------------

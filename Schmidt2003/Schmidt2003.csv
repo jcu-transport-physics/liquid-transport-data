@@ -8,6 +8,7 @@ Density: 1e23 m^-3
 Pressure: 1 Torr
 Temperature: 293 K
 Phase: Liquid
+Field: NaN
 PROCESS: Characteristic energy (DT/mu)
 UPDATED: 2012-11-13 13:32:53
 COLUMNS: Reduced electric field (Td) | Energy (eV)

@@ -1,14 +1,14 @@
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Reference: [1] S. S.-S. Huang and G. R. Freeman, “Electron transport in gaseous and liquid argon: Effects of density and temperature,” Phys. Rev. A, vol. 24, no. 2, pp. 714–724, Aug. 1981.
+Reference: S. S. Huang and G. R. Freeman, “Electron transport in gaseous and liquid argon: Effects of density and temperature,” Phys. Rev. A, vol. 24, no. 2, pp. 714–724, Aug. 1981.
 DOI: 10.1103/PhysRevA.24.714
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 SPECIES: e / Ar
 Density: 8.1e-20 cm^-3
-Pressure: ?
+Pressure: NaN
 Temperature: 151 K
 Phase: Liquid - Critical
-Field: N/A
+Field: NaN
 PROCESS: Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
@@ -38,10 +38,10 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
 
 SPECIES: e / Ar
 Density: 10.3e-20 cm^-3
-Pressure: ?
+Pressure: NaN
 Temperature: 150 K
 Phase: Liquid - Critical
-Field: N/A
+Field: NaN
 PROCESS: Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
@@ -68,10 +68,10 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
 
 SPECIES: e / Ar
 Density: 11.0e-20 cm^-3
-Pressure: ?
+Pressure: NaN
 Temperature: 149 K
 Phase: Liquid - Critical
-Field: N/A
+Field: NaN
 PROCESS: Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
@@ -102,10 +102,10 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
 
 SPECIES: e / Ar
 Density: 12.1e-20 cm^-3
-Pressure: ?
+Pressure: NaN
 Temperature: 147 K
 Phase: Liquid - Critical
-Field: N/A
+Field: NaN
 PROCESS: Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
@@ -132,10 +132,10 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
 
 SPECIES: e / Ar
 Density: 12.9e-20 cm^-3
-Pressure: ?
+Pressure: NaN
 Temperature: 145 K
 Phase: Liquid - Critical
-Field: N/A
+Field: NaN
 PROCESS: Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
@@ -162,10 +162,10 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
 
 SPECIES: e / Ar
 Density: 14.8e-20 cm^-3
-Pressure: ?
+Pressure: NaN
 Temperature: 137 K
 Phase: Liquid - Critical
-Field: N/A
+Field: NaN
 PROCESS: Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
@@ -194,10 +194,10 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
 
 SPECIES: e / Ar
 Density: 17.5e-20 cm^-3
-Pressure: ?
+Pressure: NaN
 Temperature: 120 K
 Phase: Liquid - Critical
-Field: N/A
+Field: NaN
 PROCESS: Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
@@ -228,10 +228,10 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
 
 SPECIES: e / Ar
 Density: 20.4e-20 cm^-3
-Pressure: ?
+Pressure: NaN
 Temperature: 94 K
 Phase: Liquid - Critical
-Field: N/A
+Field: NaN
 PROCESS: Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
@@ -268,10 +268,10 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
 
 SPECIES: e / Ar
 Density: 21.1e-20 cm^-3
-Pressure: ?
+Pressure: NaN
 Temperature: 87 K
 Phase: Liquid - Critical
-Field: N/A
+Field: NaN
 PROCESS: Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
