@@ -9,10 +9,10 @@ Pressure: NaN
 Temperature: 151 K
 Phase: Liquid - Critical
 Field: NaN
-PROCESS: Mobility
+PROCESS: Reduced Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
-COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (cm^-1*s^-1*V^-1)
 -----------------------------
 0.00007687511233300895, 190.26207406437703
 0.00011578891078459935, 186.74761357591035
@@ -42,10 +42,10 @@ Pressure: NaN
 Temperature: 150 K
 Phase: Liquid - Critical
 Field: NaN
-PROCESS: Mobility
+PROCESS: Reduced Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
-COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (cm^-1*s^-1*V^-1)
 -----------------------------
 0.00018341440380314187, 1227.6337680938989
 0.0002424766636439021, 1150.081837415738
@@ -72,10 +72,10 @@ Pressure: NaN
 Temperature: 149 K
 Phase: Liquid - Critical
 Field: NaN
-PROCESS: Mobility
+PROCESS: Reduced Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
-COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (cm^-1*s^-1*V^-1)
 -----------------------------
 0.00016877464425049432, 1654.3350905523384
 0.00022731169448606306, 1535.4469561408127
@@ -106,10 +106,10 @@ Pressure: NaN
 Temperature: 147 K
 Phase: Liquid - Critical
 Field: NaN
-PROCESS: Mobility
+PROCESS: Reduced Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
-COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (cm^-1*s^-1*V^-1)
 -----------------------------
 0.00015382659937855411, 1974.9065886699195
 0.00020527479572444667, 1902.6207406437686
@@ -136,10 +136,10 @@ Pressure: NaN
 Temperature: 145 K
 Phase: Liquid - Critical
 Field: NaN
-PROCESS: Mobility
+PROCESS: Reduced Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
-COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (cm^-1*s^-1*V^-1)
 -----------------------------
 0.0001455201594993025, 1653.5983646958903
 0.00019547624822291703, 1435.478152385796
@@ -166,10 +166,10 @@ Pressure: NaN
 Temperature: 137 K
 Phase: Liquid - Critical
 Field: NaN
-PROCESS: Mobility
+PROCESS: Reduced Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
-COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (cm^-1*s^-1*V^-1)
 -----------------------------
 0.00008553279119113856, 802.4848830738601
 0.00012809482745385536, 664.5468400721372
@@ -198,10 +198,10 @@ Pressure: NaN
 Temperature: 120 K
 Phase: Liquid - Critical
 Field: NaN
-PROCESS: Mobility
+PROCESS: Reduced Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
-COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (cm^-1*s^-1*V^-1)
 -----------------------------
 0.0000720100693888391, 604.7417688296437
 0.00010624025091349693, 595.3111643516861
@@ -232,10 +232,10 @@ Pressure: NaN
 Temperature: 94 K
 Phase: Liquid - Critical
 Field: NaN
-PROCESS: Mobility
+PROCESS: Reduced Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
-COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (cm^-1*s^-1*V^-1)
 -----------------------------
 0.00009249621761718984, 924.4220736753293
 0.00012237040957155179, 881.8454764328015
@@ -272,10 +272,10 @@ Pressure: NaN
 Temperature: 87 K
 Phase: Liquid - Critical
 Field: NaN
-PROCESS: Mobility
+PROCESS: Reduced Mobility
 UPDATED: 2012-11-13 13:32:53
 COMMENT: molecule/Vs cm is the actual unit comments which I may have parsed wrong
-COLUMNS: Reduced electric field (Td) | Mobility (cm/V/s)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (cm^-1*s^-1*V^-1)
 -----------------------------
 0.0001863543145128351, 1031.9338939710447
 0.00027926411154571487, 1031.9338939710447
