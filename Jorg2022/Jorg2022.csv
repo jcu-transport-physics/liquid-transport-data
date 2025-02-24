@@ -11,7 +11,7 @@ Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity (W)
 COMMENT: kr83 source
-COLUMNS: Reduced electric field (kV/cm) | Uncertainty (kV/cm) | Drift Velocity (mm/μs) | Uncertainty (mm/μs)
+COLUMNS: Electric field (kV/cm) | Uncertainty (kV/cm) | Drift Velocity (mm/μs) | Uncertainty (mm/μs)
 -----------------------------
 3.922271e-01,8.911283e-03,1.703910e+00,2.094123e-02
 5.628341e-01,1.327334e-02,1.791946e+00,2.202321e-02
@@ -50,7 +50,7 @@ Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity (W)
 COMMENT: 222Rn source
-COLUMNS: Reduced electric field (kV/cm) | Uncertainty (kV/cm) | Drift Velocity (mm/μs) | Uncertainty (mm/μs)
+COLUMNS: Electric field (kV/cm) | Uncertainty (kV/cm) | Drift Velocity (mm/μs) | Uncertainty (mm/μs)
 -----------------------------
 7.490126e-03,8.498477e-03,1.831680e-01,2.556791e-03
 9.281815e-02,6.787171e-03,1.324471e+00,1.629337e-02
@@ -113,7 +113,7 @@ Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity (W)
 COMMENT: EXO-200 on Fig. 20
-COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/μs)
+COLUMNS: Electric field (kV/cm) | Drift Velocity (mm/μs)
 -----------------------------
 0.019988269381985967,0.5319148936170215
 0.03800536967550903,0.9029255319148939
@@ -146,7 +146,7 @@ Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity (W)
 COMMENT: XENON100/XENON1T on Fig. 20
-COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/μs)
+COLUMNS: Electric field (kV/cm) | Drift Velocity (mm/μs)
 -----------------------------
 0.11659144011798322, 1.4375000000000002
 -----------------------------
@@ -159,7 +159,7 @@ Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity (W)
 COMMENT: Miller on Fig. 20
-COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/μs)
+COLUMNS: Electric field (kV/cm) | Drift Velocity (mm/μs)
 -----------------------------
 0.024586554635256032,0.41223404255319185
 0.028768335089423697,0.4401595744680855
@@ -193,7 +193,7 @@ Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity (W)
 COMMENT: Njoya  on Fig. 20
-COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/μs)
+COLUMNS: Electric field (kV/cm) | Drift Velocity (mm/μs)
 -----------------------------
 0.040239369086249005,0.8789893617021278
 0.04776059927351838,1.0265957446808511
@@ -217,7 +217,7 @@ Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity (W)
 COMMENT: Baudis  on Fig. 20
-COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/μs)
+COLUMNS: Electric field (kV/cm) | Drift Velocity (mm/μs)
 -----------------------------
 0.22010791449829692,1.5013297872340425
 0.26312071387228464,1.5132978723404258
@@ -237,7 +237,7 @@ Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity (W)
 COMMENT: Gushchin  on Fig. 20
-COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/μs)
+COLUMNS: Rlectric field (kV/cm) | Drift Velocity (mm/μs)
 -----------------------------
 0.010659681848270795,0.31350232538871925
 0.01525416796394594,0.4639183727348948
@@ -310,7 +310,7 @@ Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity (W)
 COMMENT: Hogenbirk  on Fig. 20
-COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/μs)
+COLUMNS: Electric field (kV/cm) | Drift Velocity (mm/μs)
 -----------------------------
 0.015130210187356588,0.38430851063829774
 0.029601780192641817,0.6635638297872342
