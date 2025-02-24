@@ -1,6 +1,9 @@
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Reference: J. Doe, 2015, An example title
 DOI: 10.123412.1241
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 SPECIES: e / Xe
@@ -8,8 +11,10 @@ Density: 1e23 m^-3
 Pressure: 1 Torr
 Temperature: 293 K
 Phase: Liquid
+Field: 1 Td
 PROCESS: Characteristic energy (DT/mu)
-UPDATED: 2012-11-13 13:32:53
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
 COLUMNS: Reduced electric field (Td) | Energy (eV)
 -----------------------------
  7.648000e-2,1.718160e+0
