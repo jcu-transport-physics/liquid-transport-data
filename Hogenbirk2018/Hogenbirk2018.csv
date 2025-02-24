@@ -1,0 +1,51 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Hogenbirk, E., Decowski, M. P., McEwan, K. & Colijn, A. P. Field dependence of electronic recoil signals in a dual-phase liquid xenon time projection chamber. J. Inst. 13, P10031–P10031 (2018).
+DOI: 10.1088/1748-0221/13/10/P10031
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: 183.15 K
+Phase: Liquid
+Field: NaN
+PROCESS: Diffusion (cm^2/s)
+COMMENTS: Temperature derived from the comment "The active volume of the XAMS TPC has a cylindrical geometry, with the distance of the gate to cathode mesh of (100 ± 2) mm and a diameter of 44 mm (at −90 ◦C)."
+COMMENTS: DL/DT diffusion is not clarified
+COLUMNS: Electric field (V/cm) | Diffusion (cm^2/s)
+-----------------------------
+14.871879137066358, 82.4257425742574
+29.511266804646667, 63.61386138613857
+54.03416400962138, 46.28712871287122
+78.53666722604473, 37.62376237623755
+103.03392627398341, 31.18811881188111
+151.53898864462727, 26.237623762376145
+200.0370587906249, 24.257425742574156
+297.4987647069793, 22.52475247524744
+394.9575571963976, 22.02970297029694
+491.9502013760699, 19.554455445544463
+-----------------------------
+
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: 183.15 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity (DT/μs)
+COMMENTS: Temperature derived from the comment "The active volume of the XAMS TPC has a cylindrical geometry, with the distance of the gate to cathode mesh of (100 ± 2) mm and a diameter of 44 mm (at −90 ◦C)."
+COMMENTS: DL/DT diffusion is not clarified
+COLUMNS: Electric field (V/cm) | Drift Velocity (mm/μs)
+-----------------------------
+14.928719608692532, 0.37339649051009727
+29.877030712934527, 0.6606208762622909
+53.88858534164305, 1.105826728459695
+92.51321881741382, 1.3119379689714248
+117.05809749163558, 1.412651317092709
+164.8123678934571, 1.484878630685071
+212.11712231406045, 1.5331781977130192
+308.09694742731017, 1.605866999867213
+404.08003778981816, 1.6642017662821653
+500.06312815232616, 1.7225365326971176
+-----------------------------
