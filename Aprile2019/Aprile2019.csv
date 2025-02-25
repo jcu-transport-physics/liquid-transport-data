@@ -1,0 +1,21 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: J. Doe, 2015, An example title
+DOI: 10.123412.1241
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: 177 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity (cm/μs)
+COMMENTS: Mention of 2t mass, can't find dimensions
+COLUMNS: Electric field (V/cm) | Drift Velocity (cm/μs)
+-----------------------------
+81, 0.134
+120, 0.144
+-----------------------------
