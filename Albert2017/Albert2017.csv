@@ -1,0 +1,43 @@
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Albert, J.B., Barbeau, P.S., Beck, D., Belov, V., Breidenbach, M., Brunner, T., Burenkov, A., Cao, G.F., Cen, W.R., Chambers, C., Cleveland, B., Coon, M., Craycraft, A., Daniels, T., Danilov, M., Daugherty, S.J., Daughhetee, J., Davis, J., Delaquis, S., Der Mesrobian-Kabakian, A., DeVoe, R., Didberidze, T., Dilling, J., Dolgolenko, A., Dolinski, M.J., Dunford, M., Fairbank, W., Farine, J., Feyzbakhsh, S., Fierlinger, P., Fudenberg, D., Gornea, R., Graham, K., Gratta, G., Hall, C., Hughes, M., Jewell, M.J., Johnson, A., Johnson, T.N., Johnston, S., Karelin, A., Kaufman, L.J., Killick, R., Koffas, T., Kravitz, S., Krücken, R., Kuchenkov, A., Kumar, K.S., Lan, Y., Leonard, D.S., Licciardi, C., Lin, Y.H., MacLellan, R., Marino, M.G., Mong, B., Moore, D., Njoya, O., Nelson, R., Odian, A., Ostrovskiy, I., Piepke, A., Pocar, A., Prescott, C.Y., Retière, F., Rowson, P.C., Russell, J.J., Schubert, A., Sinclair, D., Smith, E., Stekhanov, V., Tarka, M., Tolba, T., Tsang, R., Twelker, K., Vuilleumier, J.-L., Waite, A., Walton, J., Walton, T., Weber, M., Wen, L.J., Wichoski, U., Wood, J., Yang, L., Yen, Y.-R., Zeldovich, O.Ya., Zettlemoyer, J., EXO-200 Collaboration, 2017. Measurement of the drift velocity and transverse diffusion of electrons in liquid xenon with the EXO-200 detector. Phys. Rev. C 95, 025502. 
+DOI: 10.1103/PhysRevC.95.025502
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: 167 K
+Phase: Liquid
+Field: NaN
+PROCESS: Transverse diffusion (cm^2/s)
+COLUMNS: Electric field (V/cm) | Transverse diffusion (cm^2/s)
+-----------------------------
+19.893046541454208, 48.5586064147418
+37.83746898013887, 56.66697195611158
+75.27025314327325, 54.44983789130474
+187.3817422860385, 56.28926785485318
+375.5565360408166, 55.59522283076585
+615.1216869867208, 60.66070741670178
+-----------------------------
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: 167 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift velocity (mm/μs)
+COLUMNS: Electric field (V/cm) | Drift velocity (mm/μs)
+-----------------------------
+19.76369495166489, 0.4590690208667736
+38.66809881847476, 0.8475120385232748
+74.7583243823845, 1.2070626003210274
+187.32545649838877, 1.4895666131621192
+380.6659505907626, 1.6886035313001608
+567.9914070891514, 1.8426966292134834
+616.1117078410311, 1.8715890850722314
+-----------------------------
