@@ -1,0 +1,20 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Aprile, E., Arisaka, K., Arneodo, F., Askin, A., Baudis, L., Behrens, A., Brown, E., Cardoso, J.M.R., Choi, B., Cline, D., Fattori, S., Ferella, A.D., Giboni, K.L., Kish, A., Lam, C.W., Lang, R.F., Lim, K.E., Lopes, J.A.M., Marrodán Undagoitia, T., Mei, Y., Melgarejo Fernandez, A.J., Ni, K., Oberlack, U., Orrigo, S.E.A., Pantic, E., Plante, G., Ribeiro, A.C.C., Santorelli, R., dos Santos, J.M.F., Schumann, M., Shagin, P., Teymourian, A., Tziaferi, E., Wang, H., Yamashita, M., 2012. The XENON100 dark matter experiment. Astroparticle Physics 35, 573–590. 
+DOI: 10.1016/j.astropartphys.2012.01.003
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: 182 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity (W)
+COMMENT: 30.5cm height, 15.3cm radius and 62kg of LXe, could work out the density
+COLUMNS: Reduced electric field (kV/cm) | Drift Velocity (mm/μs)
+-----------------------------
+0.53, 1.73
+-----------------------------
