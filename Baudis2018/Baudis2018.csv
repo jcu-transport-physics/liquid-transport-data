@@ -1,0 +1,27 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Baudis, L., Biondi, Y., Capelli, C., Galloway, M., Kazama, S., Kish, A., Pakarha, P., Piastra, F., Wulf, J., 2018. A dual-phase xenon TPC for scintillation and ionisation yield measurements in liquid xenon. Eur. Phys. J. C 78, 351. 
+DOI: 10.1140/epjc/s10052-018-5801-5
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: 2.92 g/cm^-3
+Pressure: NaN
+Temperature: 184 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity (mm/μs)
+COMMENTS: Liquid density is "assumed"
+COLUMNS: Electric field (kV/cm) | Drift Velocity (mm/μs)
+-----------------------------
+0.2210816521947186, 1.513226603915762
+0.26400493555852866, 1.5280561320941792
+0.3811054616471486, 1.5875593247227104
+0.5270814936017899, 1.6657423687585102
+0.6732347413403608, 1.7215803180730538
+0.818837115857062, 1.7811760506590164
+0.9718509101074574, 1.82585963010457
+1.2566167211958734, 1.8630342530042434
+-----------------------------
