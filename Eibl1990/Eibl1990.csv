@@ -1,0 +1,261 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Eibl, R., Lamp, P., Buschhorn, G., 1990. Measurement of electron mobility in liquid and critical argon at low electric-field strengths. Phys. Rev. B 42, 4356–4362.
+DOI: 10.1103/PhysRevB.42.4356
+COMMENTS: Only includes the ionization method from Table 1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Ar
+Density: 1.67e22 cm^-3
+Pressure: NaN
+Temperature: 125.83 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,297
+67,364
+133,281
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.54e22 cm^-3
+Pressure: NaN
+Temperature: 134.39 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,403
+67,399
+133,309
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.46e22 cm^-3
+Pressure: NaN
+Temperature: 138.64 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,554
+67,495
+133,387
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.39e22 cm^-3
+Pressure: NaN
+Temperature: 141.7 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,815
+67,635
+133,413
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.33e22 cm^-3
+Pressure: NaN
+Temperature: 144.24 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,1222
+67,750
+133,476
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.28e22 cm^-3
+Pressure: NaN
+Temperature: 145.15 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,1298
+67,853
+133,495
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.24e22 cm^-3
+Pressure: NaN
+Temperature: 146.81 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,1408
+67,990
+133,538
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.19e22 cm^-3
+Pressure: NaN
+Temperature: 147.58 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,1299
+67,917
+133,563
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.17e22 cm^-3
+Pressure: NaN
+Temperature: 147.97 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,1223
+67,952
+133,589
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.15e22 cm^-3
+Pressure: NaN
+Temperature: 148.38 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,1123
+67,990
+133,563
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.10e22 cm^-3
+Pressure: NaN
+Temperature: 149.21 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,959
+67,853
+133,563
+-----------------------------
+
+SPECIES: e / Ar
+Density: 1.03e22 cm^-3
+Pressure: NaN
+Temperature: 150.1 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,593
+67,688
+133,538
+-----------------------------
+
+SPECIES: e / Ar
+Density: 0.98e22 cm^-3
+Pressure: NaN
+Temperature: 150.5 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,437
+67,516
+133,458
+-----------------------------
+
+SPECIES: e / Ar
+Density: 0.92e22 cm^-3
+Pressure: NaN
+Temperature: 150.8 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,330
+67,413
+133,399
+-----------------------------
+
+SPECIES: e / Ar
+Density: 0.864e22 cm^-3
+Pressure: NaN
+Temperature: 150.96 K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,260
+67,302
+133,335
+-----------------------------
+
+SPECIES: e / Ar
+Density: 0.808e22 cm^-3
+Pressure: NaN
+Temperature: 151 K
+Phase: Critical
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Mobility (cm^2/V/s)
+-----------------------------
+20,163
+67,192
+133,244
+-----------------------------
