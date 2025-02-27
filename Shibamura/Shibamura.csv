@@ -1,0 +1,74 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Shibamura, E., Takahashi, T., Kubota, S., Doke, T., 1979. Ratio of diffusion coefficient to mobility for electrons in liquid argon. Phys. Rev. A 20, 2547–2554. 
+DOI: 10.1103/PhysRevA.20.2547
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Ar
+Density: 2.1e22 cm^-3
+Pressure: NaN
+Temperature: NaN K
+Phase: Liquid
+Field: NaN
+PROCESS: Characteristic energy (DT/mu)
+COMMENTS: 1.7 mm electrode gap
+COLUMNS: Reduced electric field (V*cm^2) | Energy (eV)
+-----------------------------
+9.793573959146641e-20, 0.12074142098032987
+1.413506163355075e-19, 0.15153468427934264
+1.99079371931837e-19, 0.23261390786037614
+2.759822890925657e-19, 0.2418370504398054
+-----------------------------
+
+SPECIES: e / Ar
+Density: 2.1e22 cm^-3
+Pressure: NaN
+Temperature: NaN K
+Phase: Liquid
+Field: NaN
+PROCESS: Characteristic energy (DT/mu)
+COMMENTS: 2.7 mm electrode gap
+COLUMNS: Reduced electric field (V*cm^2) | Energy (eV)
+-----------------------------
+8.839846283314247e-20, 0.1138014663684515
+1.7469259442974345e-19, 0.20620438603250082
+2.604088357751101e-19, 0.2682695795279726
+3.487064101461679e-19, 0.3277388687342176
+5.326661184766835e-19, 0.4259901781710856
+-----------------------------
+
+SPECIES: e / Ar
+Density: 2.1e22 cm^-3
+Pressure: NaN
+Temperature: NaN K
+Phase: Liquid
+Field: NaN
+PROCESS: Characteristic energy (DT/mu)
+COMMENTS: 3.7 mm electrode gap
+COLUMNS: Reduced electric field (V*cm^2) | Energy (eV)
+-----------------------------
+1.2721181733763918e-19, 0.14924955450518299
+1.9258112987066126e-19, 0.20639529504595922
+2.4600135318715076e-19, 0.2415587504112372
+3.158273398334663e-19, 0.29935772947204903
+3.884213632024418e-19, 0.3277388687342176
+-----------------------------
+
+SPECIES: e / Ar
+Density: 2.1e22 cm^-3
+Pressure: NaN
+Temperature: NaN K
+Phase: Liquid
+Field: NaN
+PROCESS: Characteristic energy (DT/mu)
+COMMENTS: 4.8 mm electrode gap
+COLUMNS: Reduced electric field (V*cm^2) | Energy (eV)
+-----------------------------
+9.856277434365221e-20, 0.10895999653185973
+1.4925390188604436e-19, 0.15803663139606264
+2.0265220696354706e-19, 0.18673319674208805
+2.516983938812768e-19, 0.22064053414383308
+3.5343069056586633e-19, 0.2965170627641891
+-----------------------------
