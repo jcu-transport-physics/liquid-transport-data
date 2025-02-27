@@ -1,0 +1,36 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Halpern, B., Lekner, J., Rice, S.A., Gomer, R., 1967. Drift Velocity and Energy of Electrons in Liquid Argon. Phys. Rev. 156, 351–352. 
+DOI: 10.1103/PhysRev.156.351
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Ar
+Density: NaN
+Pressure: NaN
+Temperature: 85 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity (cm/μs)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (V/cm) | Drift Velocity (cm/μs)
+-----------------------------
+19.475976781731855, 0.012013281326792608
+19.658166850294506, 0.013357956789816428
+29.95174704778851, 0.020070215357592076
+29.97334986236896, 0.017367942308506724
+39.82563188864226, 0.021922134843363722
+49.86349454335921, 0.029879850051999494
+53.3805860163993, 0.03454129694516249
+59.50557510415696, 0.031995535127725
+89.82413229889409, 0.04323375824052991
+99.03120983401678, 0.05095938007949088
+107.0492128983622, 0.06064115460871578
+206.45019529089535, 0.10045819098312456
+333.9402712990857, 0.12940199493392532
+375.6492356576007, 0.13986358350848932
+613.4865211627155, 0.18906763451472797
+908.7585021524135, 0.2168346001618665
+-----------------------------
