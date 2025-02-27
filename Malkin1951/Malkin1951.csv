@@ -1,0 +1,46 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Malkin, M.S., Schultz, H.L., 1951. Electron Mobilities in Liquid Argon. Phys. Rev. 83, 1051–1052. 
+DOI: 10.1103/PhysRev.83.1051.2
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Ar
+Density: NaN
+Pressure: NaN
+Temperature: NaN K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: 0.185cm
+COLUMNS: Electric field (kV/cm) | Mobility (cm^2/V/s)
+-----------------------------
+11.767290461861986, 34.12754057651651
+17.9622590856721, 22.81072495218067
+24.060940278974034, 20.168100314321183
+30.424680365552188, 18.70302799807604
+36.09472141746552, 15.641606729381756
+42.285573664134944, 13.840602243872972
+48.82076980726853, 12.543048579961741
+54.3544334947818, 13.440239823711671
+-----------------------------
+
+SPECIES: e / Ar
+Density: NaN
+Pressure: NaN
+Temperature: NaN K
+Phase: Liquid
+Field: NaN
+PROCESS: Mobility (cm^2/V/s)
+COMMENTS: 0.107cm
+COLUMNS: Electric field (kV/cm) | Mobility (cm^2/V/s)
+-----------------------------
+11.900804259555471, 29.83210103021286
+20.639872929227398, 27.765053300372482
+41.4311569480643, 13.339836016062819
+52.32989183324197, 15.3035268850882
+62.514166825132264, 13.228872806183514
+73.55643799147643, 12.076018747413286
+84.0786138547411, 9.746954663922416
+-----------------------------
