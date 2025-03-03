@@ -7,7 +7,7 @@ COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_erro
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 SPECIES: e / Xe
-Density: 2.92 g/cm^-3
+Density: 2.92 g/cm^3
 Pressure: NaN
 Temperature: 184 K
 Phase: Liquid
