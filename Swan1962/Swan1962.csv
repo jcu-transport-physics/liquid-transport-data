@@ -1,0 +1,45 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Swan, D.W., 1962. Electron Drift Velocity in Liquid Argon and Argon–Nitrogen Mixtures. Nature 196, 977–978. 
+DOI: 10.1038/196977a0
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: NaN K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity (cm/μs)
+COMMENTS: 1.2 mm
+COLUMNS: Electric field (kV/cm) | Drift Velocity (cm/μs)
+-----------------------------
+8.118306306491057, 0.6134394241565115
+16.395671945573767, 0.6580262800367083
+24.871573367238653, 0.6904031212029551
+33.14586291930912, 0.7227840638185519
+41.41656370319863, 0.7409247742921155
+49.68675180591943, 0.7570311658882456
+66.22917873603585, 0.7973812245902396
+74.49526538940698, 0.7972130651669034
+82.96860340522834, 0.8194183119459839
+91.03410355134244, 0.823322891726864
+-----------------------------
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: NaN K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity (cm/μs)
+COMMENTS: 1.72 mm
+COLUMNS: Electric field (kV/cm) | Drift Velocity (cm/μs)
+-----------------------------
+34.76029591957058, 0.7288542088560546
+46.258324660476895, 0.7530322527723234
+57.95642722747151, 0.7711032386069427
+69.65606783797224, 0.7952771810738619
+-----------------------------
