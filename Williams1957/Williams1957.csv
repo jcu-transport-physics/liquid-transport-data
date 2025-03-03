@@ -1,0 +1,59 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Williams, R.L., 1957. Ionic mobilities in argon and helium liquids. Can. J. Phys. 35, 134–146. 
+DOI: 10.1139/p57-017
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Ar
+Density: NaN
+Pressure: 1 Torr
+Temperature: 90 K
+Phase: Liquid
+Field: NaN
+PROCESS: Inverse Mobility (V*s/cm^2)
+COMMENTS: 0.2mm
+COLUMNS: Electric field (kV/cm) | Inverse Mobility (V*s/cm^2)
+-----------------------------
+5.833272563747297, 0.005357537859452088
+7.652957048056589, 0.007577207759060761
+12.939667954981882, 0.012380253530712954
+24.96730596271178, 0.02402203505189726
+49.406645761929056, 0.04433299302365154
+98.61907192688203, 0.09052365152288583
+149.30977904178513, 0.13466500765696784
+-----------------------------
+
+SPECIES: e / Ar
+Density: NaN
+Pressure: 1 Torr
+Temperature: 90 K
+Phase: Liquid
+Field: NaN
+PROCESS: Inverse Mobility (V*s/cm^2)
+COMMENTS: 0.2mm
+COLUMNS: Electric field (kV/cm) | Inverse Mobility (V*s/cm^2)
+-----------------------------
+4.359367023991833, 0.00666411434405309
+10.558107878169128, 0.012205632125233956
+34.778069471790744, 0.03864492938574102
+69.4078611536498, 0.07134890250127617
+101.25233962906242, 0.11019312574442744
+-----------------------------
+
+SPECIES: e / Ar
+Density: NaN
+Pressure: 1 Torr
+Temperature: 90 K
+Phase: Liquid
+Field: NaN
+PROCESS: Inverse Mobility (V*s/cm^2)
+COMMENTS: 0.2mm
+COLUMNS: Electric field (kV/cm) | Inverse Mobility (V*s/cm^2)
+-----------------------------
+3.4549940445805696, 0.004625872043559631
+6.1845207710445145, 0.007955376892972599
+8.544203796883739, 0.011843627701208087
+35.64853302219305, 0.04643929726050705
+-----------------------------
