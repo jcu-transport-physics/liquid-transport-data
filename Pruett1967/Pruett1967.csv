@@ -1,0 +1,40 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Pruett, H.D., Broida, H.P., 1967. Free-Carrier Drift-Velocity Studies in Rare-Gas Liquids and Solids. Phys. Rev. 164, 1138–1144. 
+DOI: 10.1103/PhysRev.164.1138
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Kr
+Density: NaN 
+Pressure: NaN
+Temperature: 119 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity (cm/μs)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (kV/cm) | Drift Velocity (cm/μs)
+-----------------------------
+30.540414826849748, 0.32759266781095653
+46.516227512742226, 0.3152553032586053
+61.482816000838554, 0.340249734673288
+-----------------------------
+
+SPECIES: e / Ar
+Density: NaN 
+Pressure: NaN
+Temperature: 87 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity (cm/μs)
+COMMENTS: Insert comments as needed
+COMMENTS: 1 line per point
+COLUMNS: Electric field (kV/cm) | Drift Velocity (cm/μs)
+-----------------------------
+15.301424247585853, 0.5675528360477459
+30.45570681725868, 0.6050785498093579
+46.49342906932561, 0.6052515035180358
+69.44949620681071, 0.6040775147076166
+-----------------------------
