@@ -47,7 +47,7 @@ COLUMNS: Electric field (V/cm) | Drift Velocity (cm/s)
 
 SPECIES: e / Ar
 Density: NaN
-Pressure: N/A
+Pressure: NaN
 Temperature: 111.5 K
 Phase: Liquid
 Field: 200 V/m
@@ -62,7 +62,7 @@ COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
 
 SPECIES: e / Ar
 Density: NaN
-Pressure: N/A
+Pressure: NaN
 Temperature: 105.3 K
 Phase: Liquid
 Field: 200 V/m
@@ -79,7 +79,7 @@ COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
 
 SPECIES: e / Ar
 Density: NaN
-Pressure: N/A
+Pressure: NaN
 Temperature: 100.3 K
 Phase: Liquid
 Field: 200 V/m
@@ -139,7 +139,7 @@ COLUMNS: Electric field (V/cm) | Drift Velocity (cm/s)
 
 SPECIES: e / Ar
 Density: NaN
-Pressure: N/A
+Pressure: NaN
 Temperature: 90.1 K
 Phase: Liquid
 Field: 100 V/m
@@ -157,7 +157,7 @@ COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
 
 SPECIES: e / Ar
 Density: NaN
-Pressure: N/A
+Pressure: NaN
 Temperature: 111.5 K
 Phase: Liquid
 Field: 100 V/m
@@ -177,7 +177,7 @@ COLUMNS: Pressure (atm) | Mobility (cm^2/V/s)
 
 SPECIES: e / Ar
 Density: NaN
-Pressure: N/A
+Pressure: NaN
 Temperature: 145.0 K
 Phase: Liquid
 Field: 100 V/m
