@@ -7,7 +7,7 @@ COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_erro
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 SPECIES: e / Xe
-Density: 68e20 m^-3
+Density: 68e20 cm^-3
 Pressure: NaN
 Temperature: 288 K
 Phase: Liquid
@@ -40,7 +40,7 @@ COLUMNS: Reduced electric field (V*cm^2) | Reduced Mobility (V^-1/s/cm)
 -----------------------------
 
 SPECIES: e / Xe
-Density: 86e20 m^-3
+Density: 86e20 cm^-3
 Pressure: NaN
 Temperature: 278 K
 Phase: Liquid
@@ -74,7 +74,7 @@ COLUMNS: Reduced electric field (V*cm^2) | Reduced Mobility (V^-1/s/cm)
 -----------------------------
 
 SPECIES: e / Xe
-Density: 123e20 m^-3
+Density: 123e20 cm^-3
 Pressure: NaN
 Temperature: 216 K
 Phase: Liquid
@@ -117,7 +117,7 @@ COLUMNS: Reduced electric field (V*cm^2) | Reduced Mobility (V^-1/s/cm)
 -----------------------------
 
 SPECIES: e / Xe
-Density: 141e20 m^-3
+Density: 141e20 cm^-3
 Pressure: NaN
 Temperature: 163 K
 Phase: Liquid
