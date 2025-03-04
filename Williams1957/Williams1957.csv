@@ -27,7 +27,7 @@ COLUMNS: Electric field (kV/cm) | Inverse Mobility (V*s/cm^2)
 
 SPECIES: e / Ar
 Density: NaN
-Pressure: 1 Torr
+Pressure: NaN
 Temperature: 90 K
 Phase: Liquid
 Field: NaN
@@ -44,7 +44,7 @@ COLUMNS: Electric field (kV/cm) | Inverse Mobility (V*s/cm^2)
 
 SPECIES: e / Ar
 Density: NaN
-Pressure: 1 Torr
+Pressure: NaN
 Temperature: 90 K
 Phase: Liquid
 Field: NaN
