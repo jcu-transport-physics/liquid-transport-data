@@ -4,7 +4,7 @@ DOI: 10.1016/j.nima.2016.01.094
 COMMENTS: Only 3 distances are parsed for Mobility
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-SPECIES: e / Xe
+SPECIES: e / Ar
 Density: NaN
 Pressure: NaN
 Temperature: 89 K
@@ -32,7 +32,7 @@ COLUMNS: Reduced electric field (Td) | Longitudinal Characteristic Energy (eV)
 0.005536175850394872, 0.00992523368326545
 -----------------------------
 
-SPECIES: e / Xe
+SPECIES: e / Ar
 Density: NaN
 Pressure: NaN
 Temperature: 89 K
@@ -60,7 +60,7 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm^2/V/s)
 0.0023657211126915908, 337.64395340024623
 -----------------------------
 
-SPECIES: e / Xe
+SPECIES: e / Ar
 Density: NaN
 Pressure: NaN
 Temperature: 89 K
@@ -82,7 +82,7 @@ COLUMNS: Reduced electric field (Td) | Mobility (cm^2/V/s)
 0.0051777537543204015, 196.70880340572464
 -----------------------------
 
-SPECIES: e / Xe
+SPECIES: e / Ar
 Density: NaN
 Pressure: NaN
 Temperature: 89 K
