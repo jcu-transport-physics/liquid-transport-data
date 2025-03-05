@@ -1,0 +1,49 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Lamp, P., Buschhorn, G., 1994. Electron transport in fluid argon in combined electric and magnetic fields. Physical Review B 50, 16824–16834. 
+DOI: 10.1103/PhysRevB.50.16824
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Ar
+Density: 125.1e20 cm^-3
+Pressure: NaN
+Temperature: 146 K
+Phase: Liquid
+Field: NaN
+PROCESS: Reduced Mobility (mu*N)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (V^-1/cm/s)
+-----------------------------
+0.00003520333844240536, 2.1085101701293134e+25
+0.00005254082579624181, 2.146341447686658e+25
+0.00007060919880728091, 2.0863416117175976e+25
+0.00008769433229113794, 2.057569673158377e+25
+0.00010588750627766557, 2.075228424202661e+25
+0.0001764011526529195, 1.8660935420063048e+25
+0.00028066550859085653, 1.5938979547994816e+25
+0.0004245322543889563, 1.2931058607978498e+25
+0.0006275492329580593, 9.196721622560095e+24
+0.0008859635248655673, 7.085989765379225e+24
+-----------------------------
+
+SPECIES: e / Ar
+Density: 114.7e20 cm^-3
+Pressure: NaN
+Temperature: 148.4 K
+Phase: Liquid
+Field: NaN
+PROCESS: Reduced Mobility (mu*N)
+COLUMNS: Reduced electric field (Td) | Reduced Mobility (V^-1/cm/s)
+-----------------------------
+0.00004211543117631905, 1.5234559057627e+25
+0.00006409231829315436, 1.5234559057627e+25
+0.00008492978562137286, 1.557287649886839e+25
+0.00010647090178305332, 1.4686950715278942e+25
+0.00012687989048853116, 1.501310728908171e+25
+0.0002146898322662313, 1.375038269289725e+25
+0.000338984309118303, 1.2873538412873832e+25
+0.0005134132102758944, 1.087842389404558e+25
+0.0007703744338819589, 8.296958520834847e+24
+0.0010688175939047569, 6.858798002780707e+24
+-----------------------------
