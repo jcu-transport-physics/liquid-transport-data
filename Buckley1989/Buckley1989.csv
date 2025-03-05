@@ -1,0 +1,46 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Buckley, E., Campanella, M., Carugno, G., Cattadori, C., Gonidec, A., Muñoz, R., Ochsenbein, S., Rubbia, C., Schinzel, D., Schmidt, W.F., Seidl, W., 1989. A study of ionization electrons drifting over large distances in liquid argon. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment 275, 364–372. 
+DOI: 10.1016/0168-9002(89)90710-9
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Ar
+Density: NaN
+Pressure: NaN
+Temperature: 87 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity
+COLUMNS: Electric field (V/cm) | Drift Velocity (cm/s)
+-----------------------------
+3.022565920236332, 1775.5761559033215
+4.906361606433362, 2670.601251535816
+5.618250424678623, 3311.1854451710847
+6.141148719708296, 3236.0590479576317
+6.867764864942285, 3964.0596212749824
+7.640397924304718, 4039.1971451645063
+8.749984899728545, 4861.553280662711
+9.560411751875506, 5287.227875862868
+10.32470666358288, 5482.812692510782
+11.550289806105297, 6143.8949078933
+15.246441849205869, 7810.725917816454
+17.46743348495987, 8498.264487558004
+20.35695046952221, 11051.100556566062
+23.46857006025947, 11065.298366871511
+25.03919961662369, 12320.795246365382
+40.14738348829132, 20866.03090063104
+46.25432592087972, 24672.116338848984
+60.35034013077914, 29554.16158934364
+71.59375239492786, 38667.18195728847
+79.13394234583822, 45432.596312415044
+95.08113526598119, 47158.62516165069
+108.22364507860917, 59872.57325796878
+130.78799554609145, 64404.777669179355
+154.29033816934825, 77078.87357342915
+174.69135597102812, 82864.77486330588
+180.96119298418316, 89543.68084312353
+212.2716096113378, 100383.23279228761
+241.77891545144394, 106650.08936570777
+-----------------------------
