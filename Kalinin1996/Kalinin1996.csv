@@ -1,0 +1,38 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Kalinin, A.M., Gonidec, A., Schinzel, D., Potrebennikov, Yu.K., 1996. Temperature and Electric Field Strength Dependence of Electron Drift Velocity in Liquid Argon.
+DOI: NaN
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Ar
+Density: NaN
+Pressure: NaN
+Temperature: 86.8 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity
+COLUMNS: Electric field (kV/cm) | Drift Velocity (mm/μs)
+-----------------------------
+0.504659042353654, 1.6265664713446326
+0.7397395750792889, 1.9097239078582846
+0.9988806262073894, 2.135845438150586
+1.2486333810103654, 2.3221910839269557
+1.4977241405596469, 2.4800909942566896
+1.7555412011803573, 2.6493210536557177
+1.994846467252298, 2.750377638201539
+2.234151733324239, 2.85143422274736
+2.5164265094996314, 2.980695817193019
+2.7390735677331475, 3.093226986136214
+2.9950370416435135, 3.1828089862846616
+3.5072287875657224, 3.3733512807602106
+4.001305936091379, 3.5127875416505336
+4.4877159759515175, 3.68640683018618
+4.989195435041213, 3.780281769252526
+5.483404982617609, 3.925407177232177
+5.985546436960999, 4.047727851745159
+6.496016995223604, 4.164311234059454
+6.997231656211822, 4.246807878947146
+7.506907820169991, 4.329256378725478
+-----------------------------
