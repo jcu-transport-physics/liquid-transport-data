@@ -1,0 +1,50 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Baur, D., Bismark, A., Brown, A., Dierle, J., Fischer, H., Glade-Beucke, R., Grigat, J., Kaminsky, B., Kuger, F., Lindemann, S., Masson, D., Meinhardt, P., Rajado Silva, M., Schumann, M., Tönnies, F., Toschi, F., 2023. The XeBRA platform for liquid xenon time projection chamber development. J. Inst. 18, T02004. 
+DOI: 10.1088/1748-0221/18/02/T02004
+COMMENTS: Use standard algebra to define units, insite ASCII symbols rather than latex (μs rather than \mu s)
+COMMENTS: Use NaN for missing values
+COMMENTS: Columns can be either x | y, x | y | y_error, x | x_error | y | y_error
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: 1.637 bar
+Temperature: 173.3 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity
+COMMENTS: Baseline
+COLUMNS: Electric field (V/cm) | Drift Velocity (mm/μs)
+-----------------------------
+68.30790877670313, 1.3606834822651455
+112.51088459342627, 1.4663159920931643
+155.89520753846182, 1.423369585335337
+200.4692573776274, 1.568807977908242
+243.9899924897917, 1.6080282513899888
+292.3279272150022, 1.6503061307589226
+336.74701464056193, 1.6895989576007044
+383.3696668370871, 1.7228335788795688
+426.2779148667434, 1.7591361708113389
+472.1298220133322, 1.7863333160587236
+-----------------------------
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: 1.637 bar
+Temperature: 173.3 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity
+COMMENTS: Hermetic
+COLUMNS: Electric field (V/cm) | Drift Velocity (mm/μs)
+-----------------------------
+340.32811802212285, 1.6027141736251804
+371.7941180723618, 1.6367702132506368
+402.9750964534188, 1.6586321413296736
+434.70687360016376, 1.6866025799408448
+465.2493951717031, 1.7206856944510325
+498.72475426407254, 1.7376803913287064
+530.4043085987746, 1.7656695740908457
+560.5443377151053, 1.794887540083111
+594.2709382781919, 1.8131172682412333
+-----------------------------
