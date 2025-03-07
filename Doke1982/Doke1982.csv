@@ -12,10 +12,10 @@ Pressure: NaN
 Temperature: NaN K
 Phase: Liquid
 Field: NaN
-PROCESS: Diffusion (cm^2/s)
+PROCESS: Transverse Diffusion (cm^2/s)
 COMMENTS: Insert comments as needed
 COMMENTS: 1 line per point
-COLUMNS: Reduced electric field (V*cm^2) | Diffusion (cm^2/s)
+COLUMNS: Reduced electric field (V*cm^2) | Transverse Diffusion (cm^2/s)
 -----------------------------
 4.4842962744146585e-20, 103.10647734323966
 6.790275858152224e-20, 108.29790399363453
@@ -32,10 +32,10 @@ Pressure: NaN
 Temperature: NaN K
 Phase: Liquid
 Field: NaN
-PROCESS: Diffusion (cm^2/s)
+PROCESS: Transverse Diffusion (cm^2/s)
 COMMENTS: Insert comments as needed
 COMMENTS: 1 line per point
-COLUMNS: Reduced electric field (V*cm^2) | Diffusion (cm^2/s)
+COLUMNS: Reduced electric field (V*cm^2) | Transverse Diffusion (cm^2/s)
 -----------------------------
 8.497914000732582e-20, 34.28738358374341
 1.1871942555378898e-19, 36.70780791424571

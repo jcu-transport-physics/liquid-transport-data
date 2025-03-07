@@ -12,8 +12,8 @@ Pressure: NaN
 Temperature: 167 K
 Phase: Liquid
 Field: NaN
-PROCESS: Transverse diffusion (cm^2/s)
-COLUMNS: Electric field (V/cm) | Transverse diffusion (cm^2/s)
+PROCESS: Transverse Diffusion (cm^2/s)
+COLUMNS: Electric field (V/cm) | Transverse Diffusion (cm^2/s)
 -----------------------------
 19.893046541454208, 48.5586064147418
 37.83746898013887, 56.66697195611158
