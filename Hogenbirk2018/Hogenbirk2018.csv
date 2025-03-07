@@ -9,10 +9,9 @@ Pressure: NaN
 Temperature: 183.15 K
 Phase: Liquid
 Field: NaN
-PROCESS: Diffusion (cm^2/s)
+PROCESS: Longitudinal Diffusion (cm^2/s)
 COMMENTS: Temperature derived from the comment "The active volume of the XAMS TPC has a cylindrical geometry, with the distance of the gate to cathode mesh of (100 ± 2) mm and a diameter of 44 mm (at −90 ◦C)."
-COMMENTS: DL/DT diffusion is not clarified
-COLUMNS: Electric field (V/cm) | Diffusion (cm^2/s)
+COLUMNS: Electric field (V/cm) | Longitudinal Diffusion (cm^2/s)
 -----------------------------
 14.871879137066358, 82.4257425742574
 29.511266804646667, 63.61386138613857
