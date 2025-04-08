@@ -9,12 +9,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 SPECIES: e / Xe
 Density: 3 g/cm^3
 Pressure: NaN
-Temperature: NaN K
+Temperature: 173 K
 Phase: Liquid
 Field: NaN
 PROCESS: Transverse Diffusion (cm^2/s)
-COMMENTS: Insert comments as needed
-COMMENTS: 1 line per point
+COMMENTS: Temperature is estimated from the density using the NIST database
 COLUMNS: Reduced electric field (V*cm^2) | Transverse Diffusion (cm^2/s)
 -----------------------------
 4.4842962744146585e-20, 103.10647734323966
