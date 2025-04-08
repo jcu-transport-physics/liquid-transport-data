@@ -1,9 +1,5 @@
 # Liquid-Transport-Data
 
-## Aim
-
-## Scope
-
 ## How to use
 
 ## How to contribute
@@ -11,11 +7,14 @@
 1. Create a [git branch](https://www.atlassian.com/git/tutorials/using-branches) with a title like "JDoe2015"
 2. Open a pull request for the branch
 3. Create a new folder that contains:
+
 ```
 JDoe2015/JDoe2015Title.pdf
 JDoe2015/JDoe2015.csv
 ```
+
 where the csv follows the template:
+
 ```
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Reference: J. Doe, 2015, An example title
@@ -27,6 +26,7 @@ Density: 1e23 m^-3
 Pressure: 1 Torr
 Temperature: 293 K
 Phase: Liquid
+Field: NaN
 PROCESS: Characteristic energy (DT/mu)
 UPDATED: 2012-11-13 13:32:53
 COLUMNS: Reduced electric field (Td) | Energy (eV)
@@ -42,10 +42,14 @@ COLUMNS: Reduced electric field (Td) | Energy (eV)
  7.681600e-1,6.321710e+0
 -----------------------------
 ```
+
 4. Retrieve the data using [webplotdigitiser](https://automeris.io/) or other software
 5. Fill out the template file according to the paper
 6. Commit the files to the git branch
 7. Mark the pull request ready for review
+
 ## Contributers
+
+Dale Muccignat, Nathan Garland, Gregory Boyle
 
 ## How to cite
