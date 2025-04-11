@@ -1,0 +1,17 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Abratenko, P., Alrashed, M., An, R., Anthony, J., Asaadi, J., Ashkenazi, A., et al. Cosmic Ray Background Rejection with Wire-Cell LArTPC Event Reconstruction in the MicroBooNE Detector. Phys Rev Appl. 2021. Jun 29;15(6):064071. 
+DOI: 10.1103/PhysRevApplied.15.064071
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: 87 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity 
+COMMENTS: stated in text
+COLUMNS: Electric field (V/cm) | Drift Velocity (mm/μs)
+-----------------------------
+273, 1.1
+-----------------------------
