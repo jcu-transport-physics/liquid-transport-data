@@ -1,0 +1,16 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Abi, B., Abud, A., Acciarri, R., Acero, A., Adamov, G., Adamowski, M., et al. First results on ProtoDUNE-SP liquid argon time projection chamber performance from a beam test at the CERN Neutrino Platform. J Inst. 2020. Dec;15(12):P12004. 
+DOI: 10.1088/1748-0221/15/12/P12004
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: 87.65 K
+Phase: Liquid
+Field: NaN
+PROCESS: Drift Velocity
+COLUMNS: Electric field (Td) | Drift Velocity (mm/μs)
+-----------------------------
+500, 1.59
+-----------------------------
