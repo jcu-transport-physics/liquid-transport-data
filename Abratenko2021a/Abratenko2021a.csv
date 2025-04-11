@@ -1,0 +1,17 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Reference: Abratenko, P., An, R., Anthony, J., Asaadi, J., Ashkenazi, A., et al. Measurement of the longitudinal diffusion of ionization electrons in the MicroBooNE detector. Journal of Instrumentation. 2021. Sep;16(09):P09025. 
+DOI: 10.1088/1748-0221/16/09/P09025
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SPECIES: e / Xe
+Density: NaN
+Pressure: NaN
+Temperature: 87 K
+Phase: Liquid
+Field: NaN
+PROCESS: Longitudinal Diffusion
+COMMENTS: stated in text
+COLUMNS: Electric field (V/cm) | Longitudinal Diffusion (cm^2/s)
+-----------------------------
+273, 6.4
+-----------------------------
