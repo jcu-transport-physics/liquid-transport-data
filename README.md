@@ -48,8 +48,10 @@ COLUMNS: Reduced electric field (Td) | Energy (eV)
 6. Commit the files to the git branch
 7. Mark the pull request ready for review
 
-## Contributers
+## Contributors
 
 Dale Muccignat, Nathan Garland, Gregory Boyle
 
 ## How to cite
+
+TBA
