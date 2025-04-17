@@ -1,6 +1,17 @@
 # Liquid-Transport-Data
 
-## How to use
+This repository hosts the data collected for the
+paper:
+```
+G. J. Boyle, N. A. Garland, D. L. Muccignat, I. Simonovic, D. Boˇsnjakovi, S. Dujko and R. D. White, Review of the experimental and theoretical landscape of electron transport in noble liquids
+```
+The data was collected for comparison purposes and to enable researchers to easily utilise the data in a standardised form.
+
+If you wish to use any of the data in this database, please ensure that the appropriate original source is referenced along with the reference for this version of the database. The original reference can be found at the top of each data file.
+
+We have made our best attempt at ensuring that the data is accurate and true to the source material but errors may be present. We encourage anyone to fix these errors by contributing or creating an issue so that we may correct it. We have included all the files neccesary to load the digitisation in [webplotdigitizer](https://apps.automeris.io/wpd4/) so that the data can be checked and corrected at any time.
+
+If there are any missing data sources that should be included, we welcome contributions.
 
 ## How to contribute
 
@@ -53,4 +64,4 @@ Dale Muccignat, Nathan Garland, Gregory Boyle
 
 ## How to cite
 
-TBA
+Citation information can be found at DOI: 10.5281/zenodo.15233314
