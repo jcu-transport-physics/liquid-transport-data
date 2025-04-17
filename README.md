@@ -1,6 +1,6 @@
 # Liquid-Transport-Data
 
-This repository hosts the data collected for the
+This repository hosts the electron-liquid swarm transport data collected for the
 paper:
 ```
 G. J. Boyle, N. A. Garland, D. L. Muccignat, I. Simonovic, D. Boˇsnjakovi, S. Dujko and R. D. White, Review of the experimental and theoretical landscape of electron transport in noble liquids
