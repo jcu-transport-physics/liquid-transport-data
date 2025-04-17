@@ -4,12 +4,11 @@
 
 ## How to contribute
 
-1. Create a [git branch](https://www.atlassian.com/git/tutorials/using-branches) with a title like "JDoe2015"
-2. Open a pull request for the branch
-3. Create a new folder that contains:
+1. Create a [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of the repository.
+2. Create a [git branch](https://www.atlassian.com/git/tutorials/using-branches) with a title like "JDoe2015" in line with the first author and year.
+4. Create a new folder that contains:
 
 ```
-JDoe2015/JDoe2015Title.pdf
 JDoe2015/JDoe2015.csv
 ```
 
@@ -43,10 +42,10 @@ COLUMNS: Reduced electric field (Td) | Energy (eV)
 -----------------------------
 ```
 
-4. Retrieve the data using [webplotdigitiser](https://automeris.io/) or other software
-5. Fill out the template file according to the paper
-6. Commit the files to the git branch
-7. Mark the pull request ready for review
+4. Retrieve the data using [webplotdigitiser](https://automeris.io/), or other software. Include the project data to replicate the digitisation where possible.
+5. Fill out the template file according to the paper, include all appropriate references.
+7. Commit the files to the git branch
+8. Mark the pull request ready for review
 
 ## Contributors
 
