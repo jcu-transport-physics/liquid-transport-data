@@ -3,14 +3,14 @@ Reference: Abi, B., Abud, A., Acciarri, R., Acero, A., Adamov, G., Adamowski, M.
 DOI: 10.1088/1748-0221/15/12/P12004
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-SPECIES: e / Xe
+SPECIES: e / Ar
 Density: NaN
 Pressure: NaN
 Temperature: 87.65 K
 Phase: Liquid
 Field: NaN
 PROCESS: Drift Velocity
-COLUMNS: Electric field (Td) | Drift Velocity (mm/μs)
+COLUMNS: Electric field (V/cm) | Drift Velocity (mm/μs)
 -----------------------------
 500, 1.59
 -----------------------------
